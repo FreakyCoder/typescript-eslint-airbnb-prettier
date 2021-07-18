@@ -1,5 +1,5 @@
 {
-  "name": "api",
+  "name": "typescript-eslint-airbnb-prettier",
   "version": "0.0.1",
   "main": "index.js",
   "license": "GPL-3.0",
